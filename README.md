@@ -166,6 +166,59 @@ In my case I wanted to get participation of Grand Total Values, what is done by 
 - **Design choice:** Histogram allows to reduce number of data for analysis and focus on defined ranges to give the general view of how many jobs can be found in each salary range.
 - **Insights gained:** The higher salary the less jobs.
 
+## Salary Analysis build  
+  
+### Charts  
+  
+#### Highest Pay Jobs - Scatter Chart  
 
+*//ScatterYrHr//*  
 
+- **Excel features:** Utilized features to compare jobs with different units of measure. Optimized layout for clarity.
+- **Design choice:** Scatter Chart allows to provide comparison when analytic values have not the same unit of measure. It shows how each job title stands against the rest.
+- **Insights gained:** Comparing jobs level it looks like Engineers are higher-paid over other positions. Comparing Yearly salary with hourly salary there are Top 4 job titles which outstanding: Senior Data Engineer, Senior Data Scientist, Data Engineer, Data Scientist
 
+#### Median Salary Ranges - Box&Whisker Chart  
+
+*//BoxWhisker//*  
+
+- **Excel features:**  Utilized features to compare job titles and possibilities of each.
+- **Design choice:** Detailed information, easy to read, about Median Salary for each job title. Provides information not only about MIN or MAX salary, but also includes AVG and Median of values.
+- **Insights gained:** Machine Learning Engineer has the widest range of slary while the narrowest is for Senior Data Analyst. Salary for Senior Data Analyst is not much higer compared to Data Analyst
+
+#### Highest Pay Countries - Map Chart  
+
+*//TopPayCountries//*  
+
+- **Excel features:** Utilized Excel's map chart feature to plot median salary globally.
+- **Design choice:** Color-coded map to visually differentiate salary levels across regions.
+- **Visual enhancement:** Improved readability and immediate understanding of geographic count trends.
+
+## Skills Analysis build  
+  
+### Charts  
+  
+#### Skills Likelihood - Bar Chart  
+
+*//SkillsLikelihood//*  
+
+- **Excel features:** Utilized bar chart feature and optimized layout for clarity.
+- **Design choice:** Horizontal bar chart for visual comparison of skills likelihood.
+- **Data organization:** Sorted and filtered Top 10 Skills by descending likelihood for improved readability.
+- **Data insights:** SQL and Python are the most common, even outstanding skills that are requested across all jobs  
+
+#### Salary to Job Count comparison - Scatter Chart  
+
+*//SkillsScatter//*  
+
+- **Excel features:** Utilized feature and optimized layout for clarity.
+- **Design choice:** Scatter Chart allows to provide comparison of job count along with salary position. It shows how each job title stands against the rest.
+- **Data insights:** Jobs where SQL or Python are requested have the highest count of jobs and at the same time jobs are high-pay. Job Count where excel is requested is not outstanding, but at the same level as other top 7 skills, but jobs are less-pay.
+
+#### Number of Skills to Salary - Area Chart  
+
+*//SkillsAreaSchema//*  
+
+- **Excel features:** Utilized feature (with formatted values) and optimized layout for clarity.
+- **Design choice:** Area Chart allows to identify trend related to various increasing values.
+- **Data insights:** The more skills required the higher-pay jobs.  
