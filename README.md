@@ -99,7 +99,7 @@ Each KPI card is created of 4 formatted parts to keep visual clarity along with 
 - **Doughnut Chart** to show additional participation of the value
 - **Insights gained:** Quick identification of key indicators along with information that Top 3 Job Platforms generate nearly half of all jobs, office work dominates over remote work and there is not much different in salary depends on having or not a degree. The most jobs is during the Summer months.
 
-*//KPI build//*  
+![KPICardBuild](003_Multimedia/Published/Concept_KPICard.png)  
 
 **NOTE  
 Percentages can refer to the value filtered by the Slicers or to the total unfiltered value.  
