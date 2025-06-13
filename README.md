@@ -79,7 +79,7 @@ In each of the 4 analysis ranges, a common parts were included:
 	- **Extensive KPI cards**
 The rest is individual for each analysis range.  
 
-*//Sli_KPI//*  
+![RepetedView](003_Multimedia/Published/Concept_Slicers_KPIs.png)  
 
 ### Slicers  
   
