@@ -160,7 +160,7 @@ In my case I wanted to get participation of Grand Total Values, what is done by 
 
 #### Median Salary Ranges - Histogram  
 
-*//HistogramSchema//*  
+![HistogramSchema](003_Multimedia/Published/Count_HistogramSchema.png)  
 
 - **Excel features:** Functions and formulas defined salary ranges. Utilized features optimized layout for clarity.
 - **Design choice:** Histogram allows to reduce number of data for analysis and focus on defined ranges to give the general view of how many jobs can be found in each salary range.
