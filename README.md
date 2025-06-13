@@ -86,7 +86,7 @@ The rest is individual for each analysis range.
 Each **Slicer** has individualy created connections with **Pivot Tables**, per need.  
 Connections with samle slicer:  
 
-*//SlicerConnections//*  
+![SlicerConnections](003_Multimedia/Published/Concept_SlicerConnections.png)  
 
 ### KPI cards  
   
