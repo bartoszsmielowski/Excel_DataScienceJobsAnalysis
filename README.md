@@ -1,7 +1,7 @@
 # Excel_DataScienceJobsAnalysis
 The project demonstrates my Excel and analytical skills
 
-*//Analysis printscreen - GIF?? or very short movie//*
+![AnalysisPreview](003_Multimedia/Published/Intro_AnalysisPreview.png)  
 
 ## Introduction  
 The project was created to investigate salaries for different Data Science jobs, along with desirable skills and degree of market demand.
