@@ -152,7 +152,7 @@ In my case I wanted to get participation of Grand Total Values, what is done by 
 
 #### Job Count Tracker - combination of dynamic table with Sparklines and Column Chart  
 
-*//JobCountTracker//*  
+![JobCountTracker](003_Multimedia/Published/Count_JobCountTracker.png)  
 
 - **Excel features:** Utilized features (with conditionaly formatted values) and optimized layout for clarity.
 - **Design choice:** Table allaws to track job count by month for each job title individually and conditional formatting shows diversification. Vertical and horizontal summarization (colums and bars) for comparison of jobs by months and job titles. Sparklines to easly fallow changes in time.
