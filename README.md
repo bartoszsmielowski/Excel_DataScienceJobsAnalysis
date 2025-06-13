@@ -217,7 +217,7 @@ In my case I wanted to get participation of Grand Total Values, what is done by 
 
 #### Number of Skills to Salary - Area Chart  
 
-*//SkillsAreaSchema//*  
+![SkillsAreaSchema](003_Multimedia/Published/Skills_SkillsAreaSchema.png)  
 
 - **Excel features:** Utilized feature (with formatted values) and optimized layout for clarity.
 - **Design choice:** Area Chart allows to identify trend related to various increasing values.
