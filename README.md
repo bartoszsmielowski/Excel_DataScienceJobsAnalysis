@@ -132,7 +132,7 @@ In my case I wanted to get participation of Grand Total Values, what is done by 
 
 #### Desirable Skills - Radar Chart  
 
-*//Radar//*  
+![Overview_Radar](003_Multimedia/Published/Overview_Radar.png)  
 
 - **Excel features:** Utilized Excel's radar chart feature to plot job count by the most desirable skills.
 - **Design choice:** To visually differentiate count levels depend on skill.
