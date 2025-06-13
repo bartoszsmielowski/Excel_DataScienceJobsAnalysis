@@ -200,7 +200,7 @@ In my case I wanted to get participation of Grand Total Values, what is done by 
   
 #### Skills Likelihood - Bar Chart  
 
-*//SkillsLikelihood//*  
+![SkillsLikelihood](003_Multimedia/Published/Skills_SkillsLikelihood.png)  
 
 - **Excel features:** Utilized bar chart feature and optimized layout for clarity.
 - **Design choice:** Horizontal bar chart for visual comparison of skills likelihood.
