@@ -107,7 +107,7 @@ In my case I wanted to get participation of Grand Total Values, what is done by 
 
 ![ofGrandTotalValue](003_Multimedia/Published/Concept_ofGrandTotalValue.png)  
 
-*//KPI_PivotTables//*  
+![KPI_PtivotTables](003_Multimedia/Published/Concept_KPI_PivotTables.png)  
 
 ## Overview  build  
   
