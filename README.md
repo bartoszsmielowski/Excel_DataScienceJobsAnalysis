@@ -97,7 +97,7 @@ Each KPI card is created of 4 formatted parts to keep visual clarity along with 
 - **Line Chart** to see participation of performance in time
 - **TextBox** with **dynamic value**, got from **PivotTable**
 - **Doughnut Chart** to show additional participation of the value
-- **Insights gained:** Quick identification of key indicators along with information that Top 3 Job Platforms generate nearly half of all jobs, office work dominates over remote work and there is not much different in salary depends on having or not a degree. The most jobs is during the Summer months.
+- **Insights gained:** Quick identification of key indicators along with information that Top 3 Job Platforms generate nearly half of all jobs, office work dominates over remote work and there is not much different in salary depends on having or not a degree, but in the beginning of year the higher salary can be expected along with degree expectation. The most jobs is during the Summer months.
 
 ![KPICardBuild](003_Multimedia/Published/Concept_KPICard.png)  
 
