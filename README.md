@@ -56,7 +56,7 @@ The tool was also used to clean and transform the data.
 
 ![Combined12DatasetsInto1](003_Multimedia/Published/ETL_Combined12into1.png)  
 
-*//Cleaning//*  
+![Cleaning](003_Multimedia/Published/ETL_Cleaning.png)  
 
 *//SampleTablePQ//*
 
