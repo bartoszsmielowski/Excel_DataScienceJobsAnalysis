@@ -172,7 +172,7 @@ In my case I wanted to get participation of Grand Total Values, what is done by 
   
 #### Highest Pay Jobs - Scatter Chart  
 
-*//ScatterYrHr//*  
+![ScatterYrHr](003_Multimedia/Published/Salary_ScatterYrHr.png)  
 
 - **Excel features:** Utilized features to compare jobs with different units of measure. Optimized layout for clarity.
 - **Design choice:** Scatter Chart allows to provide comparison when analytic values have not the same unit of measure. It shows how each job title stands against the rest.
