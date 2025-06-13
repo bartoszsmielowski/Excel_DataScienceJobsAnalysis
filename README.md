@@ -58,7 +58,7 @@ The tool was also used to clean and transform the data.
 
 ![Cleaning](003_Multimedia/Published/ETL_Cleaning.png)  
 
-*//SampleTablePQ//*
+![SampleTablePQ](003_Multimedia/Published/ETL_SampleTablePQ.png)  
 
 ## Power Pivot  
 
