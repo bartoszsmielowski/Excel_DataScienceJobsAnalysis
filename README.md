@@ -54,7 +54,7 @@ The tool was also used to clean and transform the data.
 
 ### Sample operations  
 
-*//Combined 12 into 1//*  
+![Combined12DatasetsInto1](003_Multimedia/Published/ETL_Combined12into1.png)  
 
 *//Cleaning//*  
 
