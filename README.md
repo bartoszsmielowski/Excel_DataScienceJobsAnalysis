@@ -105,7 +105,7 @@ Each KPI card is created of 4 formatted parts to keep visual clarity along with 
 Percentages can refer to the value filtered by the Slicers or to the total unfiltered value.  
 In my case I wanted to get participation of Grand Total Values, what is done by using DAX measure in PivotTable:**  
 
-*//ofGrandTotalValue//*  
+![ofGrandTotalValue](003_Multimedia/Published/Concept_ofGrandTotalValue.png)  
 
 *//KPI_PivotTables//*  
 
