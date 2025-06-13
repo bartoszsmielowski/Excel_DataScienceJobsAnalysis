@@ -115,7 +115,7 @@ In my case I wanted to get participation of Grand Total Values, what is done by 
   
 #### Top paid jobs - Bar Chart  
 
-*//TopPayJobsSchema//*  
+![TopPayJobsSchema](003_Multimedia/Published/Overview_TopPayJobsSchema.png)  
 
  - **Excel features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
  - **Design choice:** Horizontal bar chart for visual comparison of median salaries.
