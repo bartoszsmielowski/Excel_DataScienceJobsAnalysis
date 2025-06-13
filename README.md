@@ -144,7 +144,7 @@ In my case I wanted to get participation of Grand Total Values, what is done by 
   
 #### Top Job Platforms - Bar Chart  
 
-*//TopPlatformsSchema//*  
+![TopPlatformsSchema](003_Multimedia/Published/Count_TopPlatformsSchema.png)  
 
 - **Excel features:** Utilized bar chart feature (with formatted count values) and optimized layout for clarity.
 - **Design choice:** Horizontal bar chart for visual comparison of job counts.
