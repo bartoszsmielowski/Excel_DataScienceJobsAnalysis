@@ -124,7 +124,7 @@ In my case I wanted to get participation of Grand Total Values, what is done by 
 
 #### Location of Top Count jobs - Map Chart  
 
-*//Map//*  
+![OverviewMap](003_Multimedia/Published/Overview_Map.png)  
 
 - **Excel features:** Utilized Excel's map chart feature to plot job count globally.  
 - **Design choice:** Color-coded map to visually differentiate count levels across regions.  
