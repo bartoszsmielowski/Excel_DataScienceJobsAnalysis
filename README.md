@@ -188,7 +188,7 @@ In my case I wanted to get participation of Grand Total Values, what is done by 
 
 #### Highest Pay Countries - Map Chart  
 
-*//TopPayCountries//*  
+![Salary_TopPayCountries](003_Multimedia/Published/Salary_TopPayCountries.png)  
 
 - **Excel features:** Utilized Excel's map chart feature to plot median salary globally.
 - **Design choice:** Color-coded map to visually differentiate salary levels across regions.
