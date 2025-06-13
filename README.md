@@ -209,7 +209,7 @@ In my case I wanted to get participation of Grand Total Values, what is done by 
 
 #### Salary to Job Count comparison - Scatter Chart  
 
-*//SkillsScatter//*  
+![SkillsScatter](003_Multimedia/Published/Skills_SkillsScatter.png)  
 
 - **Excel features:** Utilized feature and optimized layout for clarity.
 - **Design choice:** Scatter Chart allows to provide comparison of job count along with salary position. It shows how each job title stands against the rest.
