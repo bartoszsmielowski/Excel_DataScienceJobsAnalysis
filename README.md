@@ -68,7 +68,7 @@ Relations between **Fact Tables** and **Dimention Tables** have been created in 
 
 An additional, non related, blank table have been created and added to **Data Model** as a container for further **DAX measures**, to keep them organized at one place.  A few DAX measures have been created.  
 
-*//MeasuresStorage//*  
+![MeasuresStorage](003_Multimedia/Published/PowerPivot_MeasureStorage.png)  
 
 ## General concept of visualization  
   
